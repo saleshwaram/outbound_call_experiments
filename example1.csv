@@ -1,0 +1,7 @@
+name,contact_number,email,api_url
+API 1,1234567890,api1@example.com,http://127.0.0.1:1000/endpoint1
+API 2,0987654321,api2@example.com,http://127.0.0.1:1000/endpoint2
+API 3,1122334455,api3@example.com,http://127.0.0.1:1000/endpoint3
+API 4,5566778899,api4@example.com,http://127.0.0.1:1000/endpoint3
+API 5,6677889900,api5@example.com,http://127.0.0.1:1000/endpoint3
+API 6,9988776655,api6@example.com,http://127.0.0.1:1000/endpoint
